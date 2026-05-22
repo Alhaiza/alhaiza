@@ -6,35 +6,35 @@
 
   <!-- Typing Subtitle -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1500&color=00F5FF&center=true&vCenter=true&width=500&height=35&lines=Building+practical+%26+modern+web+apps;Laravel+%E2%80%A2+React+%E2%80%A2+Vue+%E2%80%A2+Tailwind;Crafting+sleek+%26+premium+user+experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=500&size=16&pause=2000&color=00F5FF&center=true&vCenter=true&width=450&height=30&lines=Building+modern+and+practical+web+applications.;Crafting+clean+and+scalable+digital+experiences." alt="Typing Subtitle" />
   </a>
 
   <br/>
 
-  <!-- Motto -->
+  <!-- Developer Quote -->
 
 <code>// Simplifying complexity through thoughtful code and clean interface design.</code>
 
 <br/><br/>
 
-  <!-- Social Badges -->
+  <!-- Social Badges (Cohesive Dark Monochromatic Aesthetic) -->
   <p align="center">
     <a href="https://alhaiza-website.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-050508?style=flat-square&logo=googlechrome&logoColor=00F5FF" alt="Portfolio" />
     </a>
+    &nbsp;
     <a href="https://linkedin.com/in/alhaiza" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-050508?style=flat-square&logo=linkedin&logoColor=8A2BE2" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://instagram.com/alhaiza_" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-050508?style=flat-square&logo=instagram&logoColor=00F5FF" alt="Instagram" />
     </a>
+    &nbsp;
     <a href="mailto:alqadrihaiza@gmail.com">
-      <img src="https://img.shields.io/badge/Email-00F5FF?style=for-the-badge&logo=gmail&logoColor=050508" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-050508?style=flat-square&logo=gmail&logoColor=8A2BE2" alt="Email" />
     </a>
   </p>
-
-  <!-- Visitor Counter -->
-  <img src="https://komarev.com/ghpvc/?username=alhaiza&color=00F5FF&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -44,17 +44,11 @@
 
 ### 🛠️ Tech Stack & Toolkit
 
-#### 🚀 Frontend & Styling
-
-[![Frontend & Mobile](https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,tailwind,flutter&theme=dark)](https://skillicons.dev)
-
-#### ⚙️ Backend & Databases
-
-[![Backend & Databases](https://skillicons.dev/icons?i=laravel,php,nodejs,express,mysql,postgres&theme=dark)](https://skillicons.dev)
-
-#### 🎨 Design & Productivity
-
-[![Design & Tools](https://skillicons.dev/icons?i=figma,git&theme=dark)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=laravel,php,react,nextjs,tailwind,nodejs,mysql,postgres,git,figma&theme=dark" alt="Core Technologies" />
+  </a>
+</p>
 
 <br/>
 <img src="divider.svg" width="100%" />
@@ -64,10 +58,11 @@
 
 <p align="center">
   <a href="https://github.com/alhaiza">
-    <img src="https://github-readme-stats.vercel.app/api?username=alhaiza&show_icons=true&locale=en&bg_color=050508&text_color=94A3B8&title_color=00F5FF&icon_color=FF007F&border_color=1e293b&hide_border=false" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=alhaiza&show_icons=true&locale=en&bg_color=050508&text_color=94A3B8&title_color=00F5FF&icon_color=8A2BE2&border_color=1e293b&hide_border=false" alt="GitHub Stats" height="165" />
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/alhaiza">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhaiza&currStreakNum=00F5FF&fire=FF3366&sideNums=E2E8F0&sideLabels=94A3B8&dates=64748B&background=050508&stroke=1e293b&ring=FF007F&hide_border=false" alt="GitHub Streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhaiza&layout=compact&bg_color=050508&text_color=94A3B8&title_color=00F5FF&icon_color=8A2BE2&border_color=1e293b&hide_border=false" alt="Top Languages" height="165" />
   </a>
 </p>
 
